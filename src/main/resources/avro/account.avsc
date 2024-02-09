@@ -1,0 +1,13 @@
+{
+    "type": "record",
+    "name": "AccountCreated",
+    "namespace": "com.example",
+    "version":1,
+    "fields": [
+        {
+            "name":"bankIdentifier",
+            "type":"string",
+            "doc":""
+        }
+    ]
+}
