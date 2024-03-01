@@ -1,11 +1,11 @@
 {
     "type": "record",
-    "name": "AccountCreated",
+    "name": "PersonCreated",
     "namespace": "com.example",
     "version":1,
     "fields": [
         {
-            "name":"bankIdentifier",
+            "name":"firstName",
             "type":"string",
             "doc":""
         }
